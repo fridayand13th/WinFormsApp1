@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>
+      <ho>Le Thi</ho>
+      <ten>Ha</ten>
+    </hoten>
+    <diachi>27, Haa, Haaa</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>
+      <ho>Lung Thi</ho>
+      <ten>Linh</ten>
+    </hoten>
+    <diachi>27, Haa, Haaa</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>
+      <ho>Do Thi</ho>
+      <ten>Ha</ten>
+    </hoten>
+    <diachi>27, Haa, Haaa</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>
+      <ho>gsdfgsdfgsdf</ho>
+      <ten>gsdddd</ten>
+    </hoten>
+    <diachi>gddddd</diachi>
+  </nhanvien>
+  <nhanvien manv="nv05">
+    <hoten>
+      <ho>gsdfg</ho>
+      <ten>sdfg</ten>
+    </hoten>
+    <diachi>sdfgsd</diachi>
+  </nhanvien>
+</ds>
